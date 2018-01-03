@@ -30,5 +30,5 @@
  ```
  All features from default [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) should work.
  
- ![](example.gif)
+ ![](/Example/example.gif)
  
